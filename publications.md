@@ -9,8 +9,8 @@ Publications
 (co)first, (co)senior or corresponding authorships are marked with an asterisk *
 
 <ol reversed>
-<li> Opgenoorth et al. (preprint) Not so ancient: Misclassification of alpine plants biases the dating of the evolution of alpine biota in the Himalaya-Tibet Orogen. Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
-<li> Mishra et al. (accepted) A chromosome-level genome assembly of the European Beech (Fagus sylvatica) reveals anomalies for organelle DNA integration, repeat content and distribution of SNPs. Frontiers in Genetics.</li>
+<li> Asgharinia et al. (2022) Towards Continuous Stem Water Content and Sap Flux Density Monitoring: IoT-Based Solution for Detecting Changes in Stem Water Dynamics. Forests, 13(7), 1040.</li>
+<li> Mishra et al. (2022) A chromosome-level genome assembly of the European Beech (Fagus sylvatica) reveals anomalies for organelle DNA integration, repeat content and distribution of SNPs. Frontiers in Genetics.</li>
 <li> Romera et al. (2021) The new Garba Guracha palynological sequence: Revision and data expansion. Quaternary Vegetation Dynamics-The African Pollen Database, 127-134.</li>
 <li> Reuber et al. (2021) Complete mitochondrial genome of the giant root-rat (Tachyoryctes macrocephalus). Mitochondrial DNA Part B 6 (8), 2191-2193.</li>
 <li> *Opgenoorth & Rellstab (2021) Tackling the challenges of evolutionary forest research with multidata approaches. Molecular Ecology 30 (16), 3893-3895.</li>
